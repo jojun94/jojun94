@@ -1,5 +1,6 @@
 ### 😄 Welcome !
 
+### 🔭 I’m currently working on developing mobile backend server.
 ### 💬 majored in Computer Engineering.
 ### 
 
