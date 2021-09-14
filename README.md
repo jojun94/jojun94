@@ -38,9 +38,10 @@
 <summary>⚡ My GitHub Stats</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jojun94&show_icons=true&theme=gotham&hide=stars,issues" alt="jojun94" />
 </details>
-<details>
+
   
 <!--
+<details>
 <summary>🔥 Top Langs</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojun94&layout=compact&theme=gotham" alt="jojun94" />
 </details>
