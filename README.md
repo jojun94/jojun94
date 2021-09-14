@@ -1,6 +1,8 @@
 ### &nbsp;About Me
 #### 😄 Welcome ! My name is jojun.
-#### I’m currently working on developing backend server.
+#### I graduated from a bachelor's degree in computer science.
+#### currently working on developing backend server. 🔥🔥🔥
+
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
@@ -34,12 +36,15 @@
 <h2> Additional Info </h2>
 <details>
 <summary>⚡ My GitHub Stats</summary>
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jojun94&show_icons=true&theme=gotham&hide=stars,issues" alt="jojun94" />
-
 </details>
-
-
+<details>
+  
+<!--
+<summary>🔥 Top Langs</summary>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojun94&layout=compact&theme=gotham" alt="jojun94" />
+</details>
+-->
 
 
 <!--
