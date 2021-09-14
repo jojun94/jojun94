@@ -1,14 +1,15 @@
 ### &nbsp;About Me
-### 😄 Welcome !
-### I’m currently working on developing mobile backend server.
-### majored in Computer Engineering.
+#### 😄 Welcome ! My name is jojun.
+#### I’m currently working on developing backend server.
+#### majored in Computer Engineering.
 
-### 🛠 &nbsp;Tech Stack
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 ![Spring](https://img.shields.io/badge/spring-05122A.svg?style=flat&logo=spring&logoColor=white)&nbsp;
+![SpringBoot](https://img.shields.io/badge/spring%20boot-05122A.svg?style=flat&logo=springboot&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Svelte](https://img.shields.io/badge/svelte-05122A.svg?style=flat&logo=svelte&logoColor=white)&nbsp;
 
@@ -25,16 +26,19 @@
 ![Jira](https://img.shields.io/badge/jira-05122A.svg?style=flat&logo=jira&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-05122A?style=flat&logo=slack&logoColor=white)&nbsp;
 
-### 💬 &nbsp;Connect with Me
-
-
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="center">
 <a href="mailto:jojun9475@gmail.com"><img src="https://img.shields.io/badge/-To_Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 
+<h2> Additional Info </h2>
+<details>
+<summary>⚡ My GitHub Stats</summary>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jojun94&show_icons=true&theme=gotham" alt="jojun94" />
 
+</details>
 
 
 
