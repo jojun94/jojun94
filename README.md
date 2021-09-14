@@ -1,6 +1,6 @@
 ### &nbsp;About Me
 #### 😄 Welcome ! My name is jojun.
-#### I graduated from a bachelor's degree in computer science.
+#### I graduated with a bachelor degree in computer science.
 #### currently working on developing backend server. 🔥🔥🔥
 
 
