@@ -32,12 +32,13 @@
 <a href="mailto:jojun9475@gmail.com"><img src="https://img.shields.io/badge/-To_Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
-
+<!-- 깃헙 관련 정보들이 비공개 레포는 가져오지 못해 나에게는 큰 의미를 가지지 못함.
 <h2> Additional Info </h2>
 <details>
 <summary>⚡ My GitHub Stats</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jojun94&show_icons=true&theme=gotham&hide=stars,issues" alt="jojun94" />
 </details>
+-->
 
   
 <!--
