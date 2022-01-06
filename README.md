@@ -12,7 +12,6 @@
 ![Spring](https://img.shields.io/badge/spring-05122A.svg?style=flat&logo=spring&logoColor=white)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/spring%20boot-05122A.svg?style=flat&logo=springboot&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Svelte](https://img.shields.io/badge/svelte-05122A.svg?style=flat&logo=svelte&logoColor=white)&nbsp;
 
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-05122A?style=flat&logo=Amazon%20DynamoDB&logoColor=white)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-05122A?style=flat&logo=oracle&logoColor=white)&nbsp;
