@@ -1,6 +1,5 @@
 ### &nbsp;About Me
-#### 😄 Welcome ! My name is jojun.
-#### I graduated with a bachelor degree in computer science.
+#### graduated with a bachelor degree in computer science.
 #### currently working on developing backend server. 🔥🔥🔥
 
 
@@ -17,16 +16,14 @@
 ![Oracle](https://img.shields.io/badge/Oracle-05122A?style=flat&logo=oracle&logoColor=white)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ![AWS](https://img.shields.io/badge/AWS-05122A.svg?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-05122A.svg?style=flat&logo=firebase)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-05122A.svg?style=flat&logo=google-cloud&logoColor=white)&nbsp;
 
 ![Jira](https://img.shields.io/badge/jira-05122A.svg?style=flat&logo=jira&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-05122A?style=flat&logo=slack&logoColor=white)&nbsp;
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="center">
 <a href="mailto:jojun9475@gmail.com"><img src="https://img.shields.io/badge/-To_Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
